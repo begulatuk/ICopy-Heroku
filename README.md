@@ -24,17 +24,14 @@
 8.&nbsp;Edit config/conf.toml  
 
 ## Deployment to Heroku
+1. First U should have a Heroku Account
+2. Go to heroku and Create a New app
+3.
+1.`git clone https://github.com/Nenokkadine/ICopy-Heroku.git && cd ICopy-Heroku`
+2. Copy Your Service Accounts to accounts folder
+3. 
 
 
+ 
 
-## Start iCopy BOT
 
-### Start  
-
-`python3 iCopy.py`  
-
-### Start via screen  
-
-``screen -dmS iCopy `which python3` iCopy.py``  
-
-#### TG Group :: [GDrive Resource & Tech](https://t.me/sharegdrive)  
